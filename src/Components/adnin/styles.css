@@ -1,0 +1,33 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  #container {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 900px;
+    height: 260px;
+    background-color: #fff;
+  }
+  
+  .label {
+    font-family: sans-serif;
+  }
+  
+  .side-text {
+    transform: rotate(-90deg);
+    position: absolute;
+    left: -120px;
+    top: 150px;
+    z-index: 9999999;
+    text-transform: uppercase;
+    font-family: Helvetica;
+  }
+  
+  .main {
+    margin-left: 40px;
+  }
+  

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-erpschool-dev-175857-authRole",
+      "UnauthRoleArn": "arn:aws:iam::963136681099:role/amplify-erpschool-dev-175857-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::963136681099:role/amplify-erpschool-dev-175857-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-erpschool-dev-175857-deployment",
+      "UnauthRoleName": "amplify-erpschool-dev-175857-unauthRole",
+      "StackName": "amplify-erpschool-dev-175857",
+      "StackId": "arn:aws:cloudformation:ap-south-1:963136681099:stack/amplify-erpschool-dev-175857/f3c12170-47a1-11ec-8fe0-0a33f2b490ae",
+      "AmplifyAppId": "d1poa3yumrtp3f"
+    },
+    "categories": {
+      "auth": {
+        "erpschooldcdd33aa": {}
+      }
+    }
+  }
+}
